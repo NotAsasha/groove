@@ -80,7 +80,7 @@ top: 30px;
     width: 45%;
 }
 .hed {
-background: url(Background-header.png);
+background: url(Background-header.png) no-repeat;
 background-size: 100%;
 }
 .home {
@@ -203,7 +203,7 @@ h5 {
     background: #33d2fd;
     border-radius: 5px;
     width: 40%;
-    height: 48px;
+    height: 55px;
     text-align: center;
     color: white;
     font-size: 60%;
